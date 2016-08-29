@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2A2BFA7A-3962-40FF-4E61-22C36B755045}") = "DevIotVR", "Assembly-CSharp.csproj", "{61E00707-8C7C-0A0F-CD58-9744E64C0E2B}"
+EndProject
+Project("{2A2BFA7A-3962-40FF-4E61-22C36B755045}") = "DevIotVR", "Assembly-CSharp-Editor.csproj", "{23142597-F298-C7F0-5C42-BDF824812797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E00707-8C7C-0A0F-CD58-9744E64C0E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E00707-8C7C-0A0F-CD58-9744E64C0E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E00707-8C7C-0A0F-CD58-9744E64C0E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E00707-8C7C-0A0F-CD58-9744E64C0E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23142597-F298-C7F0-5C42-BDF824812797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23142597-F298-C7F0-5C42-BDF824812797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23142597-F298-C7F0-5C42-BDF824812797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23142597-F298-C7F0-5C42-BDF824812797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
